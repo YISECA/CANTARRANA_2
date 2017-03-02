@@ -20,7 +20,8 @@
 
                     <div class="freebirdFormviewerViewHeaderTitleRow">
 
-                        <div class="freebirdFormviewerViewHeaderTitle" dir="auto" role="heading" aria-level="1">Caminata Parque Presa Seca - CANTARRANA 15 de Enero de 2017</div>
+                        <div class="freebirdFormviewerViewHeaderTitle" dir="auto" role="heading" aria-level="1">PARQUE ECOLÓGICO CANTARRANA - 05 de marzo de 2017</div>
+                        <div class="freebirdFormviewerViewHeaderTitle" dir="auto" role="heading" aria-level="1">“CAMINATA ESPECIAL PARA SU MASCOTA”</div>
 
                     </div>
 <br>
@@ -32,24 +33,24 @@
 
                                 <li class="elmnt-one">                                 
 
-                                        <div class="wrap"><img src="public/Img/rana.jpg"  height="400">
+                                        <div class="wrap"><img src="public/Img/canta.jpg"  height="400">
 
                                         </div>                                   
                                 </li>
 
-                               <!--  <li class="elmnt-two">
+                               <li class="elmnt-two">
                                     
-                                        <div class="wrap"><img src="public/Img/rana1.jpg"  height="400">
+                                        <div class="wrap"><img src="public/Img/canta1.jpg"  height="400">
 
                                         </div>                                 
                                 </li>
 
                                  <li class="elmnt-three">
                                     
-                                        <div class="wrap"><img src="public/Img/moyas3.jpg"  height="400">
+                                        <div class="wrap"><img src="public/Img/canta2.jpg"  height="400">
 
                                         </div>                                 
-                                </li>-->
+                                </li>
 
                             </ul>
 
@@ -75,22 +76,24 @@
 
                         <h2>Ubicación</h2>
 
-                        <p><font size="3">La localidad de Usme cuenta con un atractivo ambiental considerado por el Distrito como uno de los pulmones verdes de la ciudad, este es el Parque Ecológico Cantarrana, uno de los sitios más amplios y visitados en la localidad número 5 de la capital, según la Bogotá Humana. Este gran parque, que abrió sus puertas en el año 2007, se ha convertido en uno de los puntos estratégicos para el sistema hídrico de Bogotá, puesto que se encuentra ubicado en la carrera 1A No.100-45 sur, entre los barrios Monteblanco y Brazuelos, en la subcuenca del río Tunjuelos.</font></p>
+                        <p><font size="3">El parque ecológico Cantarrana se encuentra en la localidad No. 5 de Usme. Su ingreso está ubicado sobre la Avenida Usme # 96 a 97 sur. 
+                        Es un punto estratégico para el sistema hídrico de Bogotá; cuenta con amplias zonas verdes, espacios de recreación, senderos ecológicos, caminos de piedra, miradores, entre otros espacios.</font></p>
 
                         <h2>Descripción del recorrido </h2>
 
-                        <p><font size="3">Dentro del parque no solamente se pueden apreciar sus grandes zonas verdes, sino que aquellos que visitan este lugar podrán gozar de espacios de recreación, como son la ciclo ruta de 3.5 km, senderos ecológicos, caminos en piedra, pista de patinaje, teatrino, seis miradores, pista de triciclos, zonas de juegos infantiles, biblioteca ambiental y sala de lectura infantil, entre otras.
-                        El acceso al parque es totalmente gratis, por lo que sus puertas están abiertas para todos los bogotanos que quieran disfrutar y recorrer las 76 hectáreas de zonas verdes complementadas con obras de ingeniería y espacios de recreación.</font></p>
+                        <p><font size="3">El recorrido da inicio en el ingreso principal, donde un intérprete del parque nos dará la bienvenida, se socializaran las recomendaciones y se hará un calentamiento previo.</font></p>
 
-                        <!--<h2>Durante el recorrido se visitaran los siguientes atractivos:</h2>
+                        <center><h3>“APTA PARA TODA LA FAMILIA” </h3></center>
+                        <center><h3>En esta ocasión los participantes podrán asistir con su mascota canina</h3></center>
+                        <h3>INDISPENSABLE LLEVAR</h3>
                         <ul class="ul_inicio">
                             <font size="3">
-                            <li>Miradores</li>
-                            <li>Ecosistema de Sub-páramo</li>
-                            <li>Ecosistema de Páramo</li>
-                            <li>Las Moyas</li>
+                            <li>Collar</li>
+                            <li>Carné de vacunación</li>
+                            <li>Bolsa para desechos</li>
+                            <li>Favor acogerse a la reglamentación vigente para la tenencia de razas peligrosas.</li>
                             </font>
-                        </ul>-->
+                        </ul>
                         <br>
 
                         <font size="4"><center><table width="1000">
@@ -109,7 +112,7 @@
 
                                         <td width="282" bgcolor="#ffffff" style="border: 1px solid #5b9bd5; padding-top: 0cm; padding-bottom: 0cm; padding-left: 0.16cm; padding-right: 0.19cm">
 
-                                            <p>carrera 1A No.100-45 sur,</p>
+                                            <p>Estación de Policía de USME. Av Usme No. 96A-97</p>
 
                                         </td>
 
@@ -125,7 +128,7 @@
 
                                         <td width="282" bgcolor="#deeaf6" style="border: 1px solid #5b9bd5; padding-top: 0cm; padding-bottom: 0cm; padding-left: 0.16cm; padding-right: 0.19cm">
 
-                                            <p>Domingo 15 de Enero de 2017</p>
+                                            <p>Domingo 05 de Marzo de 2017</p>
 
                                         </td>
 
@@ -157,7 +160,7 @@
 
                                         <td width="282" bgcolor="#deeaf6" style="border: 1px solid #5b9bd5; padding-top: 0cm; padding-bottom: 0cm; padding-left: 0.16cm; padding-right: 0.19cm">
 
-                                            <p>50 Personsa</p>
+                                            <p>30 Personsa</p>
 
                                         </td>
 
@@ -181,7 +184,7 @@
 
 
 
-                                   <!-- <tr valign="top">
+                                    <tr valign="top">
 
                                         <td width="281" bgcolor="#deeaf6" style="border: 1px solid #9cc2e5; padding-top: 0cm; padding-bottom: 0cm; padding-left: 0.16cm; padding-right: 0.19cm">
 
@@ -191,7 +194,7 @@
 
                                         <td width="282" bgcolor="#deeaf6" style="border: 1px solid #9cc2e5; padding-top: 0cm; padding-bottom: 0cm; padding-left: 0.16cm; padding-right: 0.19cm">
 
-                                            <p>3.200 m.s.n.m</td>
+                                            <p>2.600 m.s.n.m</td>
 
                                     </tr>
 
@@ -205,7 +208,7 @@
 
                                         <td width="282" bgcolor="#ffffff" style="border: 1px solid #9cc2e5; padding-top: 0cm; padding-bottom: 0cm; padding-left: 0.16cm; padding-right: 0.19cm">
 
-                                            <p>12°</p>
+                                            <p>14°</p>
 
                                         </td>
 
@@ -214,17 +217,23 @@
 
                                         <td width="281" bgcolor="#deeaf6" style="border: 1px solid #9cc2e5; padding-top: 0cm; padding-bottom: 0cm; padding-left: 0.16cm; padding-right: 0.19cm">
 
-                                            <p>Nivel</p>
+                                            <p>Acceso</p>
 
                                         </td>
 
                                         <td width="282" bgcolor="#deeaf6" style="border: 1px solid #9cc2e5; padding-top: 0cm; padding-bottom: 0cm; padding-left: 0.16cm; padding-right: 0.19cm">
 
-                                            <p>Muy Alto</p>
+                                            <p>SITP:
+                                                <li>802 Sabana del Dorado – Usme</li>
+                                                <li>910 La Rivera – Usme</li>
+                                                <li>914 Bachue – Usme</li>
 
+                                               ALIMENTADOR:
+                                                <li>3-5 Portal Usme -Usminia</li>
+                                                </p>
                                         </td>
 
-                                    </tr>-->
+                                    </tr>
                                     <tr valign="top">
 
                                         <td width="281" bgcolor="#ffffff" style="border: 1px solid #9cc2e5; padding-top: 0cm; padding-bottom: 0cm; padding-left: 0.16cm; padding-right: 0.19cm">
@@ -235,7 +244,7 @@
 
                                         <td width="282" bgcolor="#ffffff" style="border: 1px solid #9cc2e5; padding-top: 0cm; padding-bottom: 0cm; padding-left: 0.16cm; padding-right: 0.19cm">
 
-                                            <p>5 a 6 horas</p>
+                                            <p>3 horas</p>
 
                                         </td>
 
